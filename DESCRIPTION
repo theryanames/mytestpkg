@@ -1,10 +1,10 @@
 Package: mytestpkg
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: me and mines
+Version: 0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: MIT + file LICENSE
+    person("Ry", "Ames", , "theryanames@gmail.com", role = c("aut", "cre"))
+Description: Test pkg for demonstrating Github actions.
+License: 'use_mit_license()'
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
